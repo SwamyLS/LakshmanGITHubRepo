@@ -1,0 +1,3 @@
+git bach************************
+github.com - to create new Repository 
+opem and create folders as C:/data/DevOps
